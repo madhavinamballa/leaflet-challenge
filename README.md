@@ -37,6 +37,7 @@ In this step we are going to..
 * Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 
 * Add layer controls to our map.
+![Image 1-8-20 at 11 39 AM](https://user-images.githubusercontent.com/36050687/72009854-925fc380-320b-11ea-8eaa-7378efdf899e.jpg)
 
 
 
