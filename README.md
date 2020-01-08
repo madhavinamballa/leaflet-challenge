@@ -1,8 +1,6 @@
 # leaflet-challenge
 ### Level 1: Basic Visualization
 
-![Image 1-8-20 at 11 31 AM](https://user-images.githubusercontent.com/36050687/72009461-d1d9e000-320a-11ea-9e50-1c010e408534.jpg)
-
 Your first task is to visualize an earthquake data set.
 
 1. **Get your data set**
@@ -21,6 +19,8 @@ Your first task is to visualize an earthquake data set.
    * Create a legend that will provide context for your map data.
 
    * Your visualization should look something like the map above.
+   ![Image 1-8-20 at 11 31 AM](https://user-images.githubusercontent.com/36050687/72009461-d1d9e000-320a-11ea-9e50-1c010e408534.jpg)
+
 
 - - -
 
